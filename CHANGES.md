@@ -1,1 +1,2 @@
-test
+#### 1.6
+* add `upgrade
